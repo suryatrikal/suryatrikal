@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web devlopment and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-   gmail id "tiwarisuryakant62@gmail.com
+   gmail id "tiwarisuryakant62@gmail.com"
    mobile no-9174207478
 
 <!---

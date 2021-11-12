@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @suryatrikal
-- 👀 I’m interested in 
+- 👋 Hi, I’m @Suryakant tiwari
+- 👀 I’m interested in  
 - 🌱 I’m currently learning web devlopment and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me

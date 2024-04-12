@@ -1,5 +1,5 @@
  <div align="center">
-  <img width="200rem"; height="auto" src="./resources/img/materialHacker.png"/>
+   
   <h1>Hi🖐️ I'm suryakant</h1>
 </div>
 
